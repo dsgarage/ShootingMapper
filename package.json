@@ -1,0 +1,23 @@
+{
+  "name": "com.dsgarage.shootingmapper",
+  "version": "0.1.0",
+  "displayName": "ShootingMapper",
+  "description": "Unity Editor extension for designing shmup (shooting game) levels, bullet patterns, enemies, and gameplay rules. Inspired by SHMUP Creator workflows.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "shmup",
+    "shooting",
+    "bullet-hell",
+    "danmaku",
+    "level-editor",
+    "game-design"
+  ],
+  "author": {
+    "name": "dsgarage"
+  },
+  "dependencies": {
+    "com.unity.mathematics": "1.2.6"
+  },
+  "samples": []
+}

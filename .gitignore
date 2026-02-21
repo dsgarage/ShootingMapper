@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+
+# Unity meta files are needed for UPM packages
+# Do NOT ignore .meta files
